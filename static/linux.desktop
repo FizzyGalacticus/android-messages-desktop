@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Android Messages
+Comment=Remote messaging
+Exec=/usr/bin/android-messages
+Icon=/usr/share/icons/hicolor/512x512/apps/android-messages.png
+Type=Application
+StartupNotify=true
+Categories=Internet;Utility;Accessory;
